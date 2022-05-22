@@ -4,7 +4,7 @@
 
 1. Clone this Repo (**Recommended**)
 ```
-git clone https://github.com/aprakash/kitty.git ~/.config/
+git clone https://github.com/aprakash/kitty.git ~/.config/kitty
 ```
 
 2. Choose a theme and create a symlink:
